@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title> what i have learnt so far</title>
+    </head>
+        <div>
+            <h1>html formatting and paragraphs </h1>
+            </div>
+            <div>
+                <ol>
+                    <li><b> - Bold text </b></li>
+                       <li> <strong> - Important text</strong></li>
+                       <li> <i> - Italic text</i> </li>
+                       <li> <em> - Emphasized text </em> </li>
+                       <li> <mark> - Marked text </mark> </li>
+                       <li> <small> - Smaller text </small> </li>
+                       <li> <del> - Deleted text </del> </li>
+                        <li> <ins> - Inserted text </ins> </li>
+                       <li> <sub> - Subscript text </sub> </li>
+                       <li> <sup> - Superscript text </sup> </li>
+                        </ol>
+                       </div>
+                    <div>
+                    <p> HTML headings are titles or subtitles that you want to display on a webpage.
+                        Javapoint  defines HTML headings or HTML h tags as  titles or subtitles that you want to display on a webpage. 
+                        </p>
+                </div>
+    </body>
+    </html>
